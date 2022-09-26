@@ -1,0 +1,54 @@
+\documentclass[a1paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\title{\color{red}{RESUME}}
+\author{Buddannagari Nikhitha Reddy}
+
+\date{1 August,2022}
+
+\begin{document}
+
+\maketitle
+\begin{flushright}
+\includegraphics[scale=0.3]{images.jpeg}
+\end{flushright}
+\section{\color{blue}{PERSONAL DETAILS:}}
+\textbf{Name:} Buddannagari Nikhitha Reddy\\
+\textbf{Father Name:} Buddannagari Saya Reddy\\
+\textbf{Mother Name:} Buddannagari Vimala\\
+\textbf{Date Of Birth:} 08-04-2003\\
+\textbf{Address:} Nizamabad\\
+\textbf{Admission ID:} B191214
+
+
+\section{\color{blue}{ACADEMICS}}
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{S.No}&\textbf{ACAMEDIC YEAR}&\textbf{STANDARD}&\textbf{CGPA}\\
+\hline
+1&2018-19&10th Class&10.0\\
+\hline
+2&2019-20&PUC-1&9.3\\
+\hline
+3&2020-21&PUC-2&9.36\\
+\hline
+\end{tabular}
+
+\section{\color{blue}{ACHIEVEMENTS}}
+\begin{itemize}
+\item State 8th rank in EAMCET
+\item District 3rd place in TMF 2018
+\item Got selected in RGUKTB
+\end{itemize}
+
+\section{\color{blue}{HOBBIES}}
+\begin{enumerate}
+\item Watching TV
+\item Reading Books
+\item Playing Carrom
+\item Learning Facts
+\end{enumerate}
+
+\end{document}
