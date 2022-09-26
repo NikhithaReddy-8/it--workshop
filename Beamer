@@ -1,0 +1,52 @@
+\documentclass{beamer}
+\usetheme{CambridgeUS}
+\title{Beamer}
+\author{NikkiReddy}
+\date{19 september,2022}
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+\begin{frame}
+{PERSONAL DETAILS}
+\textbf{Name:}B.Nikhitha Reddy\\
+\textbf{ID:}B191214\\
+\textbf{Studying:}E1-S1\\
+\textbf{Department:}Computer Science and Engineering\\
+\textbf{Class:} CSE-121-C3
+\end{frame}
+\begin{frame}{SQUAD}
+\begin{itemize}
+    \item\textbf{Bhagya sri}
+    \item\textbf{Keerthi}
+    \item \textbf{Teja sri}
+    \item\textbf{Bhumika}
+    \item\textbf{Lavanya}
+\end{itemize}
+\end{frame} 
+\begin{frame}{NATIVE}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{bhagya} & \textbf{kamareddy} \\
+\hline
+\textbf{keerthi} & \textbf{sangareddy}\\
+\hline
+\textbf{nikkireddy} & \textbf{nizamabad}\\
+\hline
+\textbf{teja} & \textbf{mahaboobabad}\\
+\hline
+
+\end{tabular}
+\end{frame}
+\begin{frame}{SUBJECTS}
+\begin{enumerate}
+    \item Engineering Physics
+    \item DEVC
+    \item Engilsh
+    \item Basic Electrical Engineering
+    \item Engineering Graphics
+    \item \textbf{IT Workshop}
+    \item Communication Skills - II
+\end{enumerate}
+\end{frame}
+\end{document}
